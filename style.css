@@ -1,0 +1,46 @@
+#nav{
+    position: absolute;
+    top:0;
+    right: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+#search_container {
+    text-align: center;
+
+}
+
+#search_bar {
+    width: 500px;
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid;
+}
+
+#search_button {
+    width: 200px;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: centre;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+h1{
+    font-size: 100px;;
+}
+
+#advanced_search_btn{
+    color: white;
+    background-color: blue;
+}
